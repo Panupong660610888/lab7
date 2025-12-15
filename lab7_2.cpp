@@ -34,6 +34,6 @@ int main() {
     getline(cin,ans);
     cout << "Fahsai: 555+ see you " << date << ". Bye Bye \\(^ ^)/";
 
-    return 0;
+    return 0; 
     
 }
